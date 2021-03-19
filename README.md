@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, My Name Erlangga [<img alt="Hi" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">](https://github.com/angga759/)
 
-<!--
-**angga759/angga759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Personal Stuffs:**
+- 🌱 I’m Currently Learning PYTHON
+- 💬 Ask me about anything [Click Here](https://github.com/angga759/angga759/issues)
 
-Here are some ideas to get you started:
+**Languages and Tools:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<code><img alt="JavaScript" height="20px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp"/></code>](https://www.javascript.com/)
+[<code><img alt="Python" height="20px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"/></code>](http://python.org/)
+[<code><img alt="Php" height="20px" src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png"/></code>](https://www.php.net/)
+
+
+**Learning Site:**
+
+[<code><img alt="W3schools" height="20px" src="https://lh3.googleusercontent.com/i-ij7KM2pFUUpFE31QAUDXg5mzGFNbm16S4tjmg2ZyuhCGLgNJ8oXJRbq7ysh6LoZg"/></code>](https://www.w3schools.com)
+[<code><img alt="Codecademy" height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0MxkiHXuMHk1yjEzqcKyJgiVviNPj8j8Azw&usqp=CAU"/></code>](https://www.codecademy.com)
+[<code><img alt="Medium" height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa41UdSojwSkXYunFt3HhtaXfr4jzlT4qwkg&s"/></code>](https://medium.com)
+
+
+**My Stats:**
+
+[![My Stats](https://github-readme-stats.vercel.app//api?username=angga759&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/angga759/)
+
+**My Langs:**
+
+[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angga759&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/angga759/)
