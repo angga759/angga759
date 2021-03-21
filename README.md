@@ -20,7 +20,7 @@
 
 **My Stats:**
 
-[![My Stats](https://github-readme-stats.vercel.app//api?username=angga759&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/angga759/)
+[![My Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=angga759&locale=en&show_icons=true&bg_color=ffffff&title_color=008082&text_color=223&icon_color=ff8ba7)](https://github.com/angga759/)
 
 **My Langs:**
 
