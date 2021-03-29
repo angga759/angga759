@@ -22,6 +22,8 @@
 
 [![My Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=angga759&locale=en&show_icons=true&bg_color=ffffff&title_color=008082&text_color=223&icon_color=ff8ba7)](https://github.com/angga759/)
 
+![](https://github-profile-trophy.vercel.app/?username=angga759&row=2&column=3)
+
 **My Langs:**
 
 [![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angga759&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/angga759/)
